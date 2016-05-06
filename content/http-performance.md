@@ -57,11 +57,15 @@
 
 * 减少HTTP请求数目 合并资源
 * 多开几个TCP 并发请求
-* Last-Modified
+* 缓存 Last-Modified，Etag，Expires
 
 ---
 
 <div><img src="img/http-performance/lastModified.jpg"></div>
+
+---
+
+<div><img src="img/http-performance/expires.jpg"></div>
 
 ---
 
