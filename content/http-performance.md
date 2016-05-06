@@ -34,38 +34,22 @@
 
 ---
 
-## HTML 5 有什么
+## HTTP 请求-响应过程
 
-<style>
-.reveal table.html5 {
-    margin: 0 auto;
-}
-.html5 img {
-    width: 3em;
-}
-table.html5 td {
-    text-align: center;
-    padding: 1em;
-}
-</style>
-<table class="html5">
-    <tr>
-        <td><img src="img/html5/semantics.svg?1"><br>语义化标签</td>
-        <td><img src="img/html5/integration.svg?1"><br>性能和集成</td>
-        <td><img src="img/html5/connectivity.svg?1"><br>连通性</td>
-        <td><img src="img/html5/offline.svg?1"><br>离线与存储</td>
-    </tr>
-    <tr>
-        <td><img src="img/html5/device.svg?1"><br>设备访问</td>
-        <td><img src="img/html5/multimedia.svg?1"><br>多媒体</td>
-        <td><img src="img/html5/css3.svg?1"><br>CSS3样式</td>
-        <td><img src="img/html5/3d.svg?1"><br>图形与3D效果</td>
-    </tr>
-</table>
+### 1、解析url，得到服务器的ip和端口号
+### 2、建立与服务器的tcp连接
+### 3、向服务器发送http请求报文
+### 4、服务器返回http响应报文
+### 5、关闭连接，显示文档
 
 ---
 
-## Writing markups, the HTML 5 way
+## 历史回顾
+
+* HTTP 0.9 （1991） 响应超文本
+* HTTP 1.0 （1996） 响应不限于超文本
+* HTTP 1.1 （1999） 持久连接，缓存机制
+* HTTP 2.0 （2015） 二进制请求头，多路复用
 
 ---
 
