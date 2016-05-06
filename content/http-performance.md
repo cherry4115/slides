@@ -15,7 +15,7 @@
 
 ---
 
-<div><img src="img/html5/tcp.jpg"></div>
+<div><img src="img/http-performance/tcp.jpg"></div>
 
 ---
 
