@@ -69,4 +69,8 @@
 
 ---
 
+<img src="img/http-performance/cache-control.jpg">
+
+---
+
 ## Thanks
