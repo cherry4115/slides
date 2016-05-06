@@ -19,14 +19,18 @@
 
 ---
 
-### HTML 5 设计思想
+### HTTP 状态码
 
-* 兼容已有内容
-* 避免不必要的复杂性
-* 解决现实的问题
-* 优雅降级
-* 尊重事实标准
-* 用户 》开发者 》浏览器厂商 》标准制定者 》理论完美
+* 200 OK *
+* 301 Moved Permanently
+* 302 Moved Temporarily
+* 304 Not Modified *
+* 401 Unauthorized
+* 403 Forbidden
+* 404 Not Found *
+* 500 Internal Server Error
+* 501 Not Implemented
+* 502 Bad Gateway *
 
 ---
 
