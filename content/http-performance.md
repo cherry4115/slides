@@ -15,7 +15,7 @@
 
 ---
 
-<div><img src="img/http-performance/tcp.jpg"></div>
+<img src="img/http-performance/tcp.jpg">
 
 ---
 
@@ -61,11 +61,11 @@
 
 ---
 
-<div><img src="img/http-performance/lastModified.jpg"></div>
+<img src="img/http-performance/lastModified.jpg">
 
 ---
 
-<div><img src="img/http-performance/expires.jpg"></div>
+<img src="img/http-performance/expires.jpg">
 
 ---
 
