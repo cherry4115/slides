@@ -15,6 +15,10 @@
 
 ---
 
+<div><img src="img/html5/tcp.jpg"></div>
+
+---
+
 ### HTML 5 设计思想
 
 * 兼容已有内容
