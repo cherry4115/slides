@@ -53,4 +53,16 @@
 
 ---
 
+## 性能优化
+
+* 减少HTTP请求数目 合并资源
+* 多开几个TCP 并发请求
+* Last-Modified
+
+---
+
+<div><img src="img/http-performance/lastModified.jpg"></div>
+
+---
+
 ## Thanks
